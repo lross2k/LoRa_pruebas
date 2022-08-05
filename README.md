@@ -6,10 +6,10 @@ reutilizable para los mismos.
 
 ## Información de dispositivos
 ### HELTEC LoRa 32
-    - [Datasheet ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf).
-    - [Documentación](https://heltec.org/project/wifi-lora-32/).  
-    - [Esquemática](https://resource.heltec.cn/download/WiFi_LoRa_32/V2/WIFI_LoRa_32_V2(868-915).PDF).
-    - [Pinout](https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf).
+- [Datasheet ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf).
+- [Documentación](https://heltec.org/project/wifi-lora-32/).  
+- [Esquemática](https://resource.heltec.cn/download/WiFi_LoRa_32/V2/WIFI_LoRa_32_V2(868-915).PDF).
+- [Pinout](https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf).
 
 ## IDEs para trabajar con ESP32
 ### Arduino IDE
