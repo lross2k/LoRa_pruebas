@@ -38,9 +38,13 @@ reutilizable para los mismos.
 - Para hacer cambios locales, simplemente clonar el repositorio.
 
 # Ejemplos
-Inicialmente se corrió un ejemplo base para el LoRa 32, este se encuentra en el directorio `WiFi
-LoRa 32FactoryTest`, el mismo puede ser usado luego de completar el proceso de configuración de
-Arduino IDE
+- Inicialmente se corrió un ejemplo base para el LoRa 32, este se encuentra en el directorio `WiFi
+  LoRa 32FactoryTest`, el mismo puede ser usado luego de completar el proceso de configuración de
+  Arduino IDE
+- Como referencia para modificaciones a LoRa se usa el header de Heltec, este puede ser encontrado
+  [acá](https://github.com/HelTecAutomation/Heltec_ESP32/blob/master/src/lora/LoRa.h), la
+  documentación no se encuentra disponible actualmente, un ejemplo de estas configuraciones puede
+  ser encontrada en `LoRa_Transceiver_434Mhz`
 
 # Contactos
 - [Luis Ross Lépiz](mailto:luisross87@estudiantec.cr)
